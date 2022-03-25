@@ -1,0 +1,8 @@
+requests==2.27.1
+pandas==1.4.1
+numpy==1.22.3
+gensim==4.1.2 
+spacy==3.2.3
+transformers==4.17.0 
+torch==1.11.0
+wordcloud==1.8.1
